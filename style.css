@@ -1,8 +1,8 @@
 body{
   background-color: #444444;
   color:#dddddd;
-  font-famiy:Arial, Helvetica, sans-serif:
-  margin:10% 20%
+  font-famiy:Arial, Helvetica, sans-serif
+  margin:10% 20%;
 }
 
 h1{
@@ -10,11 +10,11 @@ h1{
 }
 
 .picRight{
-  margin-left:15px
+  margin-left:15px;
 }
 
 .exp-header{ 
-  text-align: 
+  text-align
   text-transform: uppercase; 
   border-top: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
