@@ -1,9 +1,18 @@
-
-body{background-color: #444444;
-color:#dddddd;
-font-famiy:Arial, Helvetica, sans-serif:
-margin:10% 20%
+body{
+  background-color: #444444;
+  color:#dddddd;
+  font-famiy:Arial, Helvetica, sans-serif:
+  margin:10% 20%
 }
+
+h1{
+  float:left;
+}
+
+.picRight{
+  margin-left:15px
+}
+
 .exp-header{ 
   text-align: 
   text-transform: uppercase; 
